@@ -4,4 +4,4 @@ This project is created by a group of computer science students at Fayoum Univer
 The project we are making the system analysis and design for here is the application of a pharmacy management system.
 
 ## Note:
-Most of files in this project have the extension of "drawio", based on the website/desktop application of "draw.io".
+Most of files in this project have the extension of ".drawio", based on the website/desktop application of "draw.io".
